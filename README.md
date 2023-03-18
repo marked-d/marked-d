@@ -1,6 +1,6 @@
 About Me:  
 ---------------------
-- 🔭 I’m currently working on "Software", for a uni class. 
+- 🔭 I’m currently working on [Software](https://github.com/courses-ionio/sw), for a uni class. 
 - 🌱 I’m currently learning about software, compilers, arduino and more.
 - 💬 Ask me about my cats! 
 - 📫 How to reach me: p19mark@ionio.gr

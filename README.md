@@ -1,11 +1,13 @@
 About Me:  
 ---------------------
-- 🔭 I’m currently working on [Software](https://github.com/courses-ionio/sw), for a uni class. 
-- 🌱 I’m currently learning about software, compilers, arduino and more.
-- 💬 Ask me about my cats! 
+- 🔭 I’m currently working on a secret project. 
 - 📫 How to reach me: p19mark@ionio.gr
 - 😄 Pronouns: She/They
+<!-- 
+- 🌱 I’m currently learning about software, compilers, arduino and more.
+- 💬 Ask me about my cats! 
 - ⚡ Fun fact: “How camest thou in this pickle?”
+--> 
 
 💻 Tech Stack:
 ---------------------
@@ -21,6 +23,7 @@ About Me:
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+<!-- 
 📊 GitHub Stats:
 ---------------------
 ![](https://github-readme-stats.vercel.app/api?username=marked-d&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -34,3 +37,4 @@ About Me:
 ✍️ Random Dev Quote
 ---------------------
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+-->

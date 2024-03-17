@@ -1,14 +1,14 @@
 About Me:  
 ---------------------
-- 🔭 I’m currently working on a secret project. 
 - 📫 How to reach me: p19mark@ionio.gr
-- 😄 Pronouns: She/They
 <!-- 
+- 🔭 I’m currently working on a secret project.
+- 😄 Pronouns: She/They
 - 🌱 I’m currently learning about software, compilers, arduino and more.
 - 💬 Ask me about my cats! 
 - ⚡ Fun fact: “How camest thou in this pickle?”
 --> 
-
+<!-- 
 💻 Tech Stack:
 ---------------------
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -22,7 +22,7 @@ About Me:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+--> 
 <!-- 
 📊 GitHub Stats:
 ---------------------
